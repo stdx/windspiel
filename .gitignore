@@ -1,0 +1,14 @@
+/target
+/data
+*~
+.project
+.settings
+target
+.classpath
+.eclipse
+log.txt
+contents
+/.vagrant
+.factorypath
+.idea/
+windspiel.iml
